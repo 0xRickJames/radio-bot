@@ -1,2 +1,2 @@
-# Soulthread-bot
-Soulthread discord bot
+# radio-bot
+radio discord bot
